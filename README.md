@@ -3,7 +3,7 @@
 ## 🔗 Links
 
 [Code Link](https://github.com/pk170970/React-Project-14-Cocktails) <br>
-[Live](https://reactprojectcart.netlify.app/) <br>
+[Live](https://reactprojectcocktails.netlify.app/) <br>
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
 
